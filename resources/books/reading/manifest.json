@@ -1,0 +1,3986 @@
+{
+  "book_id": "9781835881408",
+  "title": "ROS 2 from Scratch",
+  "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/",
+  "expected_chapters": 23,
+  "toc": [
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_FM.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_FM.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_FM.xhtml/",
+      "fragment": "_idParaDest-1",
+      "title": "ROS 2 from Scratch",
+      "duration": 207.0,
+      "children": []
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_FM.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_FM.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_FM.xhtml/",
+      "fragment": "_idParaDest-2",
+      "title": "Contributors",
+      "duration": 207.0,
+      "children": []
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_FM.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_FM.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_FM.xhtml/",
+      "fragment": "_idParaDest-3",
+      "title": "About the author",
+      "duration": 207.0,
+      "children": []
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_FM.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_FM.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_FM.xhtml/",
+      "fragment": "_idParaDest-4",
+      "title": "About the reviewers",
+      "duration": 207.0,
+      "children": []
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+      "fragment": "_idParaDest-5",
+      "title": "Preface",
+      "duration": 690.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+          "fragment": "_idParaDest-6",
+          "title": "Who this book is for",
+          "duration": 690.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+          "fragment": "_idParaDest-7",
+          "title": "What this book covers",
+          "duration": 690.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+          "fragment": "_idParaDest-8",
+          "title": "To get the most out of this book",
+          "duration": 690.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+          "fragment": "_idParaDest-9",
+          "title": "Download the example code files",
+          "duration": 690.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+          "fragment": "_idParaDest-10",
+          "title": "Conventions used",
+          "duration": 690.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+          "fragment": "_idParaDest-11",
+          "title": "Get in touch",
+          "duration": 690.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+          "fragment": "_idParaDest-12",
+          "title": "Subscribe to Game Dev Assembly Newsletter!",
+          "duration": 690.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+          "fragment": "_idParaDest-13",
+          "title": "Share Your Thoughts",
+          "duration": 690.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_Preface_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Preface_eBook.xhtml/",
+          "fragment": "_idParaDest-14",
+          "title": "Free Benefits with Your Book",
+          "duration": 690.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_Part_1.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_Part_1.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Part_1.xhtml/",
+      "fragment": "_idParaDest-15",
+      "title": "Part 1:Getting Started with ROS 2",
+      "duration": 69.0,
+      "children": []
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_01.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+      "fragment": "_idParaDest-17",
+      "title": "Chapter 1: Introduction to ROS 2 – What Is ROS 2?",
+      "duration": 1173.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_01.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+          "fragment": "_idParaDest-18",
+          "title": "Terminology",
+          "duration": 1173.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_01.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+          "fragment": "_idParaDest-19",
+          "title": "What is ROS, when should we use it, and why?",
+          "duration": 1173.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_01.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+              "fragment": "_idParaDest-20",
+              "title": "Why ROS?",
+              "duration": 1173.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_01.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+              "fragment": "_idParaDest-21",
+              "title": "What is ROS?",
+              "duration": 1173.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_01.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+              "fragment": "_idParaDest-22",
+              "title": "When to use ROS",
+              "duration": 1173.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_01.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+          "fragment": "_idParaDest-23",
+          "title": "ROS 1 versus ROS 2",
+          "duration": 1173.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_01.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+              "fragment": "_idParaDest-24",
+              "title": "A quick story of ROS, and how we got to ROS 2",
+              "duration": 1173.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_01.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+              "fragment": "_idParaDest-25",
+              "title": "Is ROS 1 dead already?",
+              "duration": 1173.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_01.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+          "fragment": "_idParaDest-26",
+          "title": "Prerequisites for starting with ROS 2",
+          "duration": 1173.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_01.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+              "fragment": "_idParaDest-27",
+              "title": "Knowledge prerequisites",
+              "duration": 1173.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_01.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+              "fragment": "_idParaDest-28",
+              "title": "Hardware and software",
+              "duration": 1173.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_01.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+          "fragment": "_idParaDest-29",
+          "title": "How to follow this book",
+          "duration": 1173.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_01.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_01.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_01.xhtml/",
+          "fragment": "_idParaDest-30",
+          "title": "Summary",
+          "duration": 1173.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_02.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+      "fragment": "_idParaDest-32",
+      "title": "Chapter 2: Installing and Setting Up ROS 2",
+      "duration": 1932.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_02.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+          "fragment": "_idParaDest-33",
+          "title": "Which ROS 2 distribution to choose",
+          "duration": 1932.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-34",
+              "title": "What is a ROS 2 distribution?",
+              "duration": 1932.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-35",
+              "title": "LTS and non-LTS distributions",
+              "duration": 1932.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-36",
+              "title": "How to choose a ROS distribution",
+              "duration": 1932.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_02.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+          "fragment": "_idParaDest-37",
+          "title": "Installing the OS (Ubuntu)",
+          "duration": 1932.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-38",
+              "title": "The relationship between ROS 2 and Ubuntu",
+              "duration": 1932.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-39",
+              "title": "Installing Ubuntu 24.04 natively with a dual boot",
+              "duration": 1932.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-40",
+              "title": "Installing Ubuntu 24.04 on a VM",
+              "duration": 1932.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_02.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+          "fragment": "_idParaDest-41",
+          "title": "Installing ROS 2 on Ubuntu",
+          "duration": 1932.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-42",
+              "title": "Setting the locale",
+              "duration": 1932.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-43",
+              "title": "Setting up the sources",
+              "duration": 1932.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-44",
+              "title": "Installing ROS 2 packages",
+              "duration": 1932.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_02.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+          "fragment": "_idParaDest-45",
+          "title": "Setting up the environment for ROS 2",
+          "duration": 1932.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-46",
+              "title": "Sourcing ROS 2 in the environment",
+              "duration": 1932.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-47",
+              "title": "Adding the source line to the .bashrc file",
+              "duration": 1932.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_02.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+          "fragment": "_idParaDest-48",
+          "title": "Extra tools for ROS development",
+          "duration": 1932.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-49",
+              "title": "Visual Studio Code",
+              "duration": 1932.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_02.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+              "fragment": "_idParaDest-50",
+              "title": "The Terminal and other tools",
+              "duration": 1932.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_02.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_02.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_02.xhtml/",
+          "fragment": "_idParaDest-51",
+          "title": "Summary",
+          "duration": 1932.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_03.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+      "fragment": "_idParaDest-53",
+      "title": "Chapter 3: Uncovering ROS 2 Core Concepts",
+      "duration": 2001.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_03.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+          "fragment": "_idParaDest-54",
+          "title": "Running your first node",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-55",
+              "title": "Starting a node from the terminal with ros2 run",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-56",
+              "title": "Introspecting the nodes with rqt_graph",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-57",
+              "title": "Running a 2D robot simulation",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-58",
+              "title": "Recap – nodes",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_03.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+          "fragment": "_idParaDest-59",
+          "title": "Topics",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-60",
+              "title": "Running a topic publisher and subscriber",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-61",
+              "title": "A name and an interface (data type)",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-62",
+              "title": "More experimentation with topics",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-63",
+              "title": "Recap – topics",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_03.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+          "fragment": "_idParaDest-64",
+          "title": "Services",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-65",
+              "title": "Running a service server and client",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-66",
+              "title": "A name and an interface (data type)",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-67",
+              "title": "Sending a request from the terminal",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-68",
+              "title": "More experimentation with services",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-69",
+              "title": "Recap – services",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_03.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+          "fragment": "_idParaDest-70",
+          "title": "Actions",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-71",
+              "title": "Running an action server",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-72",
+              "title": "A name and an interface (data type)",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-73",
+              "title": "Sending a goal from the terminal",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-74",
+              "title": "Recap – actions",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_03.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+          "fragment": "_idParaDest-75",
+          "title": "Parameters",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-76",
+              "title": "Getting the parameters for a node",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-77",
+              "title": "Setting up a parameter value for a node",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-78",
+              "title": "Recap – parameters",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_03.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+          "fragment": "_idParaDest-79",
+          "title": "Launch files",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-80",
+              "title": "Starting a launch file",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_03.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+              "fragment": "_idParaDest-81",
+              "title": "Recap – launch files",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_03.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_03.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_03.xhtml/",
+          "fragment": "_idParaDest-82",
+          "title": "Summary",
+          "duration": 2001.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_Part_2.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_Part_2.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Part_2.xhtml/",
+      "fragment": "_idParaDest-83",
+      "title": "Part 2: Developing with ROS 2 – Python and C++",
+      "duration": 69.0,
+      "children": []
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_04.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+      "fragment": "_idParaDest-85",
+      "title": "Chapter 4: Writing and Building a ROS 2 Node",
+      "duration": 2277.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_04.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+          "fragment": "_idParaDest-86",
+          "title": "Technical requirements",
+          "duration": 2277.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_04.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+          "fragment": "_idParaDest-87",
+          "title": "Creating and setting up a ROS 2 workspace",
+          "duration": 2277.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-88",
+              "title": "Creating a workspace",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-89",
+              "title": "Building the workspace",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-90",
+              "title": "Sourcing the workspace",
+              "duration": 2277.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_04.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+          "fragment": "_idParaDest-91",
+          "title": "Creating a package",
+          "duration": 2277.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-92",
+              "title": "What is a ROS 2 package?",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-93",
+              "title": "Creating a Python package",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-94",
+              "title": "Creating a C++ package",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-95",
+              "title": "Building a package",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-96",
+              "title": "How are nodes organized in a package?",
+              "duration": 2277.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_04.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+          "fragment": "_idParaDest-97",
+          "title": "Creating a Python node",
+          "duration": 2277.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-98",
+              "title": "Creating a file for the node",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-99",
+              "title": "Writing a minimal ROS 2 Python node",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-100",
+              "title": "Building the node",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-101",
+              "title": "Running the node",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-102",
+              "title": "Improving the node – timer and callback",
+              "duration": 2277.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_04.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+          "fragment": "_idParaDest-103",
+          "title": "Creating a C++ node",
+          "duration": 2277.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-104",
+              "title": "Writing a C++ node",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-105",
+              "title": "Building and running the node",
+              "duration": 2277.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_04.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+          "fragment": "_idParaDest-106",
+          "title": "Node template for Python and C++ nodes",
+          "duration": 2277.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-107",
+              "title": "Template for a Python node",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-108",
+              "title": "Template for a C++ node",
+              "duration": 2277.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_04.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+          "fragment": "_idParaDest-109",
+          "title": "Introspecting your nodes",
+          "duration": 2277.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-110",
+              "title": "ros2 node command line",
+              "duration": 2277.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_04.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+              "fragment": "_idParaDest-111",
+              "title": "Changing the node name at run time",
+              "duration": 2277.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_04.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_04.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_04.xhtml/",
+          "fragment": "_idParaDest-112",
+          "title": "Summary",
+          "duration": 2277.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_05.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+      "fragment": "_idParaDest-114",
+      "title": "Chapter 5: Topics – Sending and Receiving Messages between Nodes",
+      "duration": 3243.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_05.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+          "fragment": "_idParaDest-115",
+          "title": "What is a ROS 2 topic?",
+          "duration": 3243.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-116",
+              "title": "A publisher and a subscriber",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-117",
+              "title": "Multiple publishers and subscribers",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-118",
+              "title": "Multiple publishers and subscribers inside one node",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-119",
+              "title": "Wrapping things up",
+              "duration": 3243.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_05.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+          "fragment": "_idParaDest-120",
+          "title": "Writing a topic publisher",
+          "duration": 3243.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-121",
+              "title": "Writing a Python publisher",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-122",
+              "title": "Writing a C++ publisher",
+              "duration": 3243.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_05.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+          "fragment": "_idParaDest-123",
+          "title": "Writing a topic subscriber",
+          "duration": 3243.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-124",
+              "title": "Writing a Python subscriber",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-125",
+              "title": "Writing a C++ subscriber",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-126",
+              "title": "Running the Python and C++ nodes together",
+              "duration": 3243.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_05.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+          "fragment": "_idParaDest-127",
+          "title": "Additional tools to handle topics",
+          "duration": 3243.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-128",
+              "title": "Introspecting topics with rqt_graph",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-129",
+              "title": "The ros2 topic command line",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-130",
+              "title": "Changing a topic name at runtime",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-131",
+              "title": "Replaying topic data with bags",
+              "duration": 3243.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_05.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+          "fragment": "_idParaDest-132",
+          "title": "Creating a custom interface for a topic",
+          "duration": 3243.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-133",
+              "title": "Using existing interfaces",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-134",
+              "title": "Creating a new topic interface",
+              "duration": 3243.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_05.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+          "fragment": "_idParaDest-135",
+          "title": "Topic challenge – closed-loop control",
+          "duration": 3243.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-136",
+              "title": "Challenge",
+              "duration": 3243.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_05.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+              "fragment": "_idParaDest-137",
+              "title": "Solution",
+              "duration": 3243.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_05.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_05.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_05.xhtml/",
+          "fragment": "_idParaDest-138",
+          "title": "Summary",
+          "duration": 3243.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_06.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+      "fragment": "_idParaDest-140",
+      "title": "Chapter 6: Services – Client/Server Interaction between Nodes",
+      "duration": 2967.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_06.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+          "fragment": "_idParaDest-141",
+          "title": "What is a ROS 2 service?",
+          "duration": 2967.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-142",
+              "title": "A server and a client",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-143",
+              "title": "Multiple clients for one service",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-144",
+              "title": "Another service example with robotics",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-145",
+              "title": "Wrapping things up",
+              "duration": 2967.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_06.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+          "fragment": "_idParaDest-146",
+          "title": "Creating a custom service interface",
+          "duration": 2967.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-147",
+              "title": "Finding an existing interface for our service",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-148",
+              "title": "Creating a new service interface",
+              "duration": 2967.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_06.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+          "fragment": "_idParaDest-149",
+          "title": "Writing a service server",
+          "duration": 2967.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-150",
+              "title": "Writing a Python service server",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-151",
+              "title": "Writing a C++ service server",
+              "duration": 2967.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_06.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+          "fragment": "_idParaDest-152",
+          "title": "Writing a service client",
+          "duration": 2967.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-153",
+              "title": "Writing a Python service client",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-154",
+              "title": "Running the client and server nodes together",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-155",
+              "title": "Writing a C++ service client",
+              "duration": 2967.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_06.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+          "fragment": "_idParaDest-156",
+          "title": "Additional tools to handle services",
+          "duration": 2967.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-157",
+              "title": "Listing and introspecting services",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-158",
+              "title": "Sending a service request",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-159",
+              "title": "Changing a service name at runtime",
+              "duration": 2967.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_06.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+          "fragment": "_idParaDest-160",
+          "title": "Service challenge – client and server",
+          "duration": 2967.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-161",
+              "title": "Challenge",
+              "duration": 2967.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_06.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+              "fragment": "_idParaDest-162",
+              "title": "Solution",
+              "duration": 2967.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_06.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_06.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_06.xhtml/",
+          "fragment": "_idParaDest-163",
+          "title": "Summary",
+          "duration": 2967.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_07.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+      "fragment": "_idParaDest-165",
+      "title": "Chapter 7: Actions – When Services Are Not Enough",
+      "duration": 3519.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_07.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+          "fragment": "_idParaDest-166",
+          "title": "What is a ROS 2 action?",
+          "duration": 3519.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-167",
+              "title": "Why actions?",
+              "duration": 3519.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-168",
+              "title": "How do actions work?",
+              "duration": 3519.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-169",
+              "title": "Wrapping things up",
+              "duration": 3519.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_07.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+          "fragment": "_idParaDest-170",
+          "title": "Creating a custom action interface",
+          "duration": 3519.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-171",
+              "title": "Defining the application and the interface we need",
+              "duration": 3519.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-172",
+              "title": "Creating a new action interface",
+              "duration": 3519.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_07.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+          "fragment": "_idParaDest-173",
+          "title": "Writing an action server",
+          "duration": 3519.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-174",
+              "title": "Writing a Python action server",
+              "duration": 3519.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-175",
+              "title": "Writing a C++ action server",
+              "duration": 3519.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_07.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+          "fragment": "_idParaDest-176",
+          "title": "Writing an action client",
+          "duration": 3519.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-177",
+              "title": "Writing a Python action client",
+              "duration": 3519.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-178",
+              "title": "Creating an action client",
+              "duration": 3519.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-179",
+              "title": "Writing a C++ action client",
+              "duration": 3519.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_07.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+          "fragment": "_idParaDest-180",
+          "title": "Taking advantage of all the action mechanisms",
+          "duration": 3519.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-181",
+              "title": "Adding the feedback mechanism",
+              "duration": 3519.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-182",
+              "title": "Adding the cancel mechanism",
+              "duration": 3519.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_07.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+          "fragment": "_idParaDest-183",
+          "title": "Additional tools to handle actions",
+          "duration": 3519.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-184",
+              "title": "Listing and introspecting actions",
+              "duration": 3519.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-185",
+              "title": "Sending a goal from the Terminal",
+              "duration": 3519.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_07.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+              "fragment": "_idParaDest-186",
+              "title": "Topics and services inside actions",
+              "duration": 3519.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_07.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_07.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_07.xhtml/",
+          "fragment": "_idParaDest-187",
+          "title": "Summary",
+          "duration": 3519.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_08.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+      "fragment": "_idParaDest-189",
+      "title": "Chapter 8: Parameters – Making Nodes More Dynamic",
+      "duration": 2001.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_08.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+          "fragment": "_idParaDest-190",
+          "title": "What is a ROS 2 parameter?",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-191",
+              "title": "Why parameters?",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-192",
+              "title": "Example of a node with parameters",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-193",
+              "title": "ROS 2 parameters – wrapping things up",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_08.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+          "fragment": "_idParaDest-194",
+          "title": "Using parameters in your nodes",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-195",
+              "title": "Declaring, getting, and using parameters with Python",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-196",
+              "title": "Providing parameters at runtime",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-197",
+              "title": "Parameters with C++",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_08.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+          "fragment": "_idParaDest-198",
+          "title": "Storing parameters in YAML files",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-199",
+              "title": "Loading parameters from a YAML file",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-200",
+              "title": "Parameters for multiple nodes",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-201",
+              "title": "Recapping all parameters’ data types",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_08.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+          "fragment": "_idParaDest-202",
+          "title": "Additional tools for handling parameters",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-203",
+              "title": "Getting parameters’ values from the terminal",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-204",
+              "title": "Exporting parameters into YAML",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-205",
+              "title": "Setting a parameter’s value from the terminal",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-206",
+              "title": "Parameter services",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_08.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+          "fragment": "_idParaDest-207",
+          "title": "Updating parameters with parameter callbacks",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-208",
+              "title": "Python parameter callback",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-209",
+              "title": "C++ parameter callback",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_08.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+          "fragment": "_idParaDest-210",
+          "title": "Parameter challenge",
+          "duration": 2001.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-211",
+              "title": "Challenge",
+              "duration": 2001.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_08.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+              "fragment": "_idParaDest-212",
+              "title": "Solution",
+              "duration": 2001.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_08.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_08.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_08.xhtml/",
+          "fragment": "_idParaDest-213",
+          "title": "Summary",
+          "duration": 2001.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_09.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+      "fragment": "_idParaDest-215",
+      "title": "Chapter 9: Launch Files – Starting All Your Nodes at Once",
+      "duration": 2208.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_09.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+          "fragment": "_idParaDest-216",
+          "title": "What is a ROS 2 launch file?",
+          "duration": 2208.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-217",
+              "title": "Why launch files?",
+              "duration": 2208.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-218",
+              "title": "Example of a launch file with seven nodes",
+              "duration": 2208.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_09.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+          "fragment": "_idParaDest-219",
+          "title": "Creating and installing an XML launch file",
+          "duration": 2208.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-220",
+              "title": "Setting up a package for launch files",
+              "duration": 2208.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-221",
+              "title": "Writing an XML launch file",
+              "duration": 2208.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-222",
+              "title": "Installing and starting a launch file",
+              "duration": 2208.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_09.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+          "fragment": "_idParaDest-223",
+          "title": "Creating a Python launch file – XML or Python for launch files?",
+          "duration": 2208.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-224",
+              "title": "Writing a Python launch file",
+              "duration": 2208.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-225",
+              "title": "XML versus Python for launch files",
+              "duration": 2208.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_09.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+          "fragment": "_idParaDest-226",
+          "title": "Configuring nodes inside a launch file",
+          "duration": 2208.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-227",
+              "title": "Renaming nodes and communications",
+              "duration": 2208.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-228",
+              "title": "Parameters in a launch file",
+              "duration": 2208.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-229",
+              "title": "Namespaces",
+              "duration": 2208.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_09.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+          "fragment": "_idParaDest-230",
+          "title": "Launch file challenge",
+          "duration": 2208.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-231",
+              "title": "Challenge",
+              "duration": 2208.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_09.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+              "fragment": "_idParaDest-232",
+              "title": "Solution",
+              "duration": 2208.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_09.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_09.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_09.xhtml/",
+          "fragment": "_idParaDest-233",
+          "title": "Summary",
+          "duration": 2208.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_Part_3.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_Part_3.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Part_3.xhtml/",
+      "fragment": "_idParaDest-234",
+      "title": "Part 3: Creating and Simulating a Custom Robot with ROS 2",
+      "duration": 69.0,
+      "children": []
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_10.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+      "fragment": "_idParaDest-236",
+      "title": "Chapter 10: Discovering TFs with RViz",
+      "duration": 1380.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_10.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+          "fragment": "_idParaDest-237",
+          "title": "Technical requirements",
+          "duration": 1380.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_10.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+          "fragment": "_idParaDest-238",
+          "title": "Visualizing a robot model in RViz",
+          "duration": 1380.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_10.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+              "fragment": "_idParaDest-239",
+              "title": "Installation and setup",
+              "duration": 1380.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_10.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+              "fragment": "_idParaDest-240",
+              "title": "Starting RViz with a robot model",
+              "duration": 1380.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_10.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+          "fragment": "_idParaDest-241",
+          "title": "What are TFs?",
+          "duration": 1380.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_10.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+              "fragment": "_idParaDest-242",
+              "title": "Links",
+              "duration": 1380.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_10.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+              "fragment": "_idParaDest-243",
+              "title": "TFs",
+              "duration": 1380.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_10.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+          "fragment": "_idParaDest-244",
+          "title": "Relationship between TFs",
+          "duration": 1380.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_10.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+              "fragment": "_idParaDest-245",
+              "title": "Parent and child",
+              "duration": 1380.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_10.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+              "fragment": "_idParaDest-246",
+              "title": "The /tf topic",
+              "duration": 1380.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_10.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+              "fragment": "_idParaDest-247",
+              "title": "Visualizing the TF tree",
+              "duration": 1380.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_10.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+          "fragment": "_idParaDest-248",
+          "title": "What problem are we trying to solve with TFs?",
+          "duration": 1380.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_10.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+              "fragment": "_idParaDest-249",
+              "title": "What we want to achieve",
+              "duration": 1380.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_10.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+              "fragment": "_idParaDest-250",
+              "title": "How to compute TFs",
+              "duration": 1380.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_10.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_10.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_10.xhtml/",
+          "fragment": "_idParaDest-251",
+          "title": "Summary",
+          "duration": 1380.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_11.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+      "fragment": "_idParaDest-253",
+      "title": "Chapter 11: Creating a URDF for a Robot",
+      "duration": 2898.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_11.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+          "fragment": "_idParaDest-254",
+          "title": "Creating a URDF with a link",
+          "duration": 2898.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-255",
+              "title": "Setting up a URDF file",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-256",
+              "title": "Creating a link",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-257",
+              "title": "Customizing the link visual",
+              "duration": 2898.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_11.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+          "fragment": "_idParaDest-258",
+          "title": "The process of assembling links and joints",
+          "duration": 2898.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-259",
+              "title": "Step 1 – adding a second link",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-260",
+              "title": "Step 2 – adding a joint",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-261",
+              "title": "Step 3 – fixing the joint origin",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-262",
+              "title": "Step 4 – setting up the joint type",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-263",
+              "title": "Step 5 – fixing the visual origin",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-264",
+              "title": "Recap – the process to follow every time",
+              "duration": 2898.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_11.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+          "fragment": "_idParaDest-265",
+          "title": "Writing a URDF for a mobile robot",
+          "duration": 2898.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-266",
+              "title": "What we want to achieve",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-267",
+              "title": "Adding the wheels",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-268",
+              "title": "Adding the caster wheel",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-269",
+              "title": "Extra link – base footprint",
+              "duration": 2898.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_11.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+          "fragment": "_idParaDest-270",
+          "title": "Improving the URDF with Xacro",
+          "duration": 2898.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-271",
+              "title": "Making a URDF file compatible with Xacro",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-272",
+              "title": "Xacro properties",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-273",
+              "title": "Xacro macros",
+              "duration": 2898.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_11.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+              "fragment": "_idParaDest-274",
+              "title": "Including a Xacro file in another file",
+              "duration": 2898.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_11.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_11.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_11.xhtml/",
+          "fragment": "_idParaDest-275",
+          "title": "Summary",
+          "duration": 2898.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_12.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+      "fragment": "_idParaDest-277",
+      "title": "Chapter 12: Publishing TFs and Packaging the URDF",
+      "duration": 1656.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_12.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+          "fragment": "_idParaDest-278",
+          "title": "Understanding how to publish TFs with our URDF",
+          "duration": 1656.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-279",
+              "title": "The robot_state_publisher node",
+              "duration": 1656.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-280",
+              "title": "Inputs for the robot_state_publisher",
+              "duration": 1656.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-281",
+              "title": "Recap – how to publish TFs",
+              "duration": 1656.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_12.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+          "fragment": "_idParaDest-282",
+          "title": "Starting all nodes from the terminal",
+          "duration": 1656.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-283",
+              "title": "Publishing the TFs from the terminal",
+              "duration": 1656.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-284",
+              "title": "Visualizing the robot model in RViz",
+              "duration": 1656.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_12.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+          "fragment": "_idParaDest-285",
+          "title": "Creating a package to install the URDF",
+          "duration": 1656.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-286",
+              "title": "Adding a new workspace",
+              "duration": 1656.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-287",
+              "title": "Creating a _description package",
+              "duration": 1656.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-288",
+              "title": "Installing the URDF and other files",
+              "duration": 1656.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_12.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+          "fragment": "_idParaDest-289",
+          "title": "Writing a launch file to publish TFs and visualize the robot",
+          "duration": 1656.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-290",
+              "title": "The XML launch file",
+              "duration": 1656.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_12.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+              "fragment": "_idParaDest-291",
+              "title": "The Python launch file",
+              "duration": 1656.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_12.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_12.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_12.xhtml/",
+          "fragment": "_idParaDest-292",
+          "title": "Summary",
+          "duration": 1656.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_13.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+      "fragment": "_idParaDest-294",
+      "title": "Chapter 13: Simulating a Robot in Gazebo",
+      "duration": 3036.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_13.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+          "fragment": "_idParaDest-295",
+          "title": "Technical requirements",
+          "duration": 3036.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_13.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+          "fragment": "_idParaDest-296",
+          "title": "How Gazebo works",
+          "duration": 3036.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-297",
+              "title": "Clarifying – Gazebo versus RViz",
+              "duration": 3036.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-298",
+              "title": "Starting Gazebo",
+              "duration": 3036.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-299",
+              "title": "How Gazebo works with ROS 2",
+              "duration": 3036.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_13.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+          "fragment": "_idParaDest-300",
+          "title": "Adapting the URDF for Gazebo",
+          "duration": 3036.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-301",
+              "title": "Inertial tags",
+              "duration": 3036.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-302",
+              "title": "Collision tags",
+              "duration": 3036.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_13.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+          "fragment": "_idParaDest-303",
+          "title": "Spawning the robot in Gazebo",
+          "duration": 3036.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-304",
+              "title": "Spawning the robot from the terminal",
+              "duration": 3036.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-305",
+              "title": "Spawning the robot from a launch file",
+              "duration": 3036.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_13.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+          "fragment": "_idParaDest-306",
+          "title": "Controlling the robot in Gazebo",
+          "duration": 3036.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-307",
+              "title": "What do we need to do?",
+              "duration": 3036.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-308",
+              "title": "Adding Gazebo systems",
+              "duration": 3036.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-309",
+              "title": "Bridging Gazebo and ROS 2 communications",
+              "duration": 3036.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_13.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+              "fragment": "_idParaDest-310",
+              "title": "Testing the robot",
+              "duration": 3036.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_13.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_13.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_13.xhtml/",
+          "fragment": "_idParaDest-311",
+          "title": "Summary",
+          "duration": 3036.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_14.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_14.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_14.xhtml/",
+      "fragment": "_idParaDest-313",
+      "title": "Chapter 14: Going Further – What To Do Next",
+      "duration": 1380.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_14.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_14.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_14.xhtml/",
+          "fragment": "_idParaDest-314",
+          "title": "ROS 2 roadmap – exploration phase",
+          "duration": 1380.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_14.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_14.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_14.xhtml/",
+              "fragment": "_idParaDest-315",
+              "title": "Common stacks and frameworks",
+              "duration": 1380.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_14.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_14.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_14.xhtml/",
+              "fragment": "_idParaDest-316",
+              "title": "More exploration topics",
+              "duration": 1380.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_14.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_14.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_14.xhtml/",
+          "fragment": "_idParaDest-317",
+          "title": "Learning for a specific goal",
+          "duration": 1380.0,
+          "children": [
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_14.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_14.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_14.xhtml/",
+              "fragment": "_idParaDest-318",
+              "title": "What to learn for a project?",
+              "duration": 1380.0,
+              "children": []
+            },
+            {
+              "depth": 3,
+              "reference_id": "9781835881408-/B22403_14.xhtml",
+              "ourn": "urn:orm:book:9781835881408:chapter:B22403_14.xhtml",
+              "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_14.xhtml/",
+              "fragment": "_idParaDest-319",
+              "title": "What to learn to get a job?",
+              "duration": 1380.0,
+              "children": []
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_14.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_14.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_14.xhtml/",
+          "fragment": "_idParaDest-320",
+          "title": "Summary",
+          "duration": 1380.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_Index.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_Index.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_Index.xhtml/",
+      "fragment": "_idParaDest-321",
+      "title": "Index",
+      "duration": 690.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_BM_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_BM_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_BM_eBook.xhtml/",
+          "fragment": "_idParaDest-322",
+          "title": "Why subscribe?",
+          "duration": 276.0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "reference_id": "9781835881408-/B22403_BM_eBook.xhtml",
+      "ourn": "urn:orm:book:9781835881408:chapter:B22403_BM_eBook.xhtml",
+      "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_BM_eBook.xhtml/",
+      "fragment": "_idParaDest-323",
+      "title": "Other Books You May Enjoy",
+      "duration": 276.0,
+      "children": [
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_BM_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_BM_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_BM_eBook.xhtml/",
+          "fragment": "_idParaDest-324",
+          "title": "Packt is searching for authors like you",
+          "duration": 276.0,
+          "children": []
+        },
+        {
+          "depth": 2,
+          "reference_id": "9781835881408-/B22403_BM_eBook.xhtml",
+          "ourn": "urn:orm:book:9781835881408:chapter:B22403_BM_eBook.xhtml",
+          "url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epub-chapters/urn:orm:book:9781835881408:chapter:B22403_BM_eBook.xhtml/",
+          "fragment": "_idParaDest-325",
+          "title": "Share Your Thoughts",
+          "duration": 276.0,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "order": 1,
+      "title": "cover",
+      "filename": "cover.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/cover.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/cover.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/cover.xhtml",
+      "file": "001.md",
+      "complete": true,
+      "sha256": "89c32cf2b345f77105535f0138b1701e83007c85aad1a0fe6637f8125d08b125",
+      "images": [
+        {
+          "file": "images/63759048506098bbff2d.jpg",
+          "sha256": "63759048506098bbff2d0b166df1793c0a688950eaf80bcf9126312939cfde2b"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "ROS 2 from Scratch",
+      "filename": "B22403_FM.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_FM.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_FM.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_FM.xhtml",
+      "file": "002.md",
+      "complete": true,
+      "sha256": "f07830dc44e4ff6b10ac9534c615d2c395e65045e626791b4c178967d17dbf11",
+      "images": [
+        {
+          "file": "images/ff99c78fb49b9d822bea.png",
+          "sha256": "ff99c78fb49b9d822beae88a0e2b66ec0d75d4d6900aa91246bb102c6c1b8833"
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "title": "Table of Contents",
+      "filename": "B22403_TOC_ePub.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_TOC_ePub.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_TOC_ePub.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_TOC_ePub.xhtml",
+      "file": "003.md",
+      "complete": true,
+      "sha256": "1944fcf090e9916a0da63a137ff505afa173d779ff0e9fca4c3de3dfba244380",
+      "images": []
+    },
+    {
+      "order": 4,
+      "title": "Preface",
+      "filename": "B22403_Preface_eBook.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_Preface_eBook.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Preface_eBook.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Preface_eBook.xhtml",
+      "file": "004.md",
+      "complete": true,
+      "sha256": "25fd290f1f1fb683e01ac011a7dfbe7baa5c28e3a3707cc8aca6100a7a6660a7",
+      "images": [
+        {
+          "file": "images/1318d6c28b372c63b41a.jpg",
+          "sha256": "1318d6c28b372c63b41a7b2d42f1fc5fb5562bce71e38d0d94f0f2bb576aa901"
+        },
+        {
+          "file": "images/f7519ff7058188227f23.jpg",
+          "sha256": "f7519ff7058188227f230c8bdac1265c3b18bfabd985aac75903dd8bcb35e16a"
+        },
+        {
+          "file": "images/88eb8ff2b5fcca8418c9.jpg",
+          "sha256": "88eb8ff2b5fcca8418c956f4ef3b7c7e6230882023b697b82c7e29f1d852555e"
+        },
+        {
+          "file": "images/a43698f7e4ea095d4367.png",
+          "sha256": "a43698f7e4ea095d4367b4044296326cd1edbec91b978da402c00e77efcb1c34"
+        },
+        {
+          "file": "images/67619a429961e2c68505.png",
+          "sha256": "67619a429961e2c68505ec42209912ec8cf0f77929ba6a9ddd9c74495722f4a2"
+        },
+        {
+          "file": "images/cb39c123dcbc8ecd5e32.png",
+          "sha256": "cb39c123dcbc8ecd5e327c0b31ebb9f91ddabdaab0facde6fa2d2031bfbfd363"
+        },
+        {
+          "file": "images/d5c8dc4ba9a6b956fb5a.png",
+          "sha256": "d5c8dc4ba9a6b956fb5ae34b91bac444c7a9289209fc9be632e469f7b30a1212"
+        },
+        {
+          "file": "images/88813b03868ce047bff3.png",
+          "sha256": "88813b03868ce047bff346acd64c5e98110abb060fcd8a9658396321173e89a5"
+        },
+        {
+          "file": "images/c9988c491a180f56a342.png",
+          "sha256": "c9988c491a180f56a342bb718f5110106d551a020ea55b1208e0c6459ea5553a"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "title": "Part 1:Getting Started with ROS 2",
+      "filename": "B22403_Part_1.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_Part_1.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Part_1.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Part_1.xhtml",
+      "file": "005.md",
+      "complete": true,
+      "sha256": "cc6bcf52f9b33d892dd1a983dc34600f32f24f3d2cc35547aa1b27611512738f",
+      "images": []
+    },
+    {
+      "order": 6,
+      "title": "Chapter 1: Introduction to ROS 2 – What Is ROS 2?",
+      "filename": "B22403_01.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_01.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_01.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_01.xhtml",
+      "file": "006.md",
+      "complete": true,
+      "sha256": "1476fffbdc51dd4135e66df6b39ee0a21342bbc430c6fbaf07c32f0dc4092f95",
+      "images": [
+        {
+          "file": "images/c1ad1860c29666fa6444.png",
+          "sha256": "c1ad1860c29666fa64448223d783502182aa7ce724ad72dcbde51e955c953c47"
+        },
+        {
+          "file": "images/5498a4e3a0d230af2802.png",
+          "sha256": "5498a4e3a0d230af2802af5a072e6612a27455d140b54b6ffc5b3019a98cff1a"
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "title": "Chapter 2: Installing and Setting Up ROS 2",
+      "filename": "B22403_02.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_02.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_02.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_02.xhtml",
+      "file": "007.md",
+      "complete": true,
+      "sha256": "5b700422573b87550e359b6d4e09b8f7f650ed168ed4bd57824ea2791f7542d2",
+      "images": [
+        {
+          "file": "images/e478ddae481926256b64.jpg",
+          "sha256": "e478ddae481926256b6446bfb3699f274882c0f4b61e27089dc4581e40a9f5df"
+        },
+        {
+          "file": "images/84304c4f10c739cf31ec.jpg",
+          "sha256": "84304c4f10c739cf31ec591fc011a9854c9e50ef3b91cbadf62c6fe9e81bf2df"
+        },
+        {
+          "file": "images/c05609f83c1b468291d1.jpg",
+          "sha256": "c05609f83c1b468291d1d5ca7757497d66e7c7b7527fc9722342617fbc163df8"
+        },
+        {
+          "file": "images/94bc46f6d12284b6c71d.png",
+          "sha256": "94bc46f6d12284b6c71d9555e01b47d7536061901203d3562c789bd4d8cb5731"
+        },
+        {
+          "file": "images/a305a4c1638deef8796e.png",
+          "sha256": "a305a4c1638deef8796ea854321e97faecdcdeb050bc43c63c4653bb7b8aa7d7"
+        },
+        {
+          "file": "images/a02e345f0661a65c6772.png",
+          "sha256": "a02e345f0661a65c6772f9513011d2010b4f5549ea0f4c6a09bc2b5001752e62"
+        },
+        {
+          "file": "images/d1a2c91bd3c4779f5089.png",
+          "sha256": "d1a2c91bd3c4779f508910e54cd3d4cc9cfeef11d5b5ba92dd37680b1277f230"
+        },
+        {
+          "file": "images/a2bc2b9be705aa7bd54f.jpg",
+          "sha256": "a2bc2b9be705aa7bd54fd31876ceaf781d5cc34c2c5c19549c745056fc0d2720"
+        },
+        {
+          "file": "images/1040816dfa6809477c34.jpg",
+          "sha256": "1040816dfa6809477c34956d8a6d49bbc1726618b4da43739b7f72eb40d6cdff"
+        },
+        {
+          "file": "images/3314f83bf13d3e057948.jpg",
+          "sha256": "3314f83bf13d3e057948518e349f88685f788ee12019689cd382bc0764c59b01"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "title": "Chapter 3: Uncovering ROS 2 Core Concepts",
+      "filename": "B22403_03.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_03.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_03.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_03.xhtml",
+      "file": "008.md",
+      "complete": true,
+      "sha256": "d71e238039bdf1d6ce7104a2d4e7775e93e71e85806018d38b561ab588e99231",
+      "images": [
+        {
+          "file": "images/1127f58839b266517c72.jpg",
+          "sha256": "1127f58839b266517c72d3e163db01c4a2ff6c3c86f52ffa7cae29c3e33b7b79"
+        },
+        {
+          "file": "images/b094bc9069a69606ca4d.jpg",
+          "sha256": "b094bc9069a69606ca4d8bc777f1e407c64f100294b92c8a87c3a9e5687c41bd"
+        },
+        {
+          "file": "images/2d3ac2baa337cdbab64c.jpg",
+          "sha256": "2d3ac2baa337cdbab64c297316ec57bed3c9ea97103b53d470b0a62d631224c8"
+        },
+        {
+          "file": "images/817adeaaca86daac5a46.jpg",
+          "sha256": "817adeaaca86daac5a469c9d1d44e76356a2c6d834c9602454c760dd5ac7a8b9"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "title": "Part 2: Developing with ROS 2 – Python and C++",
+      "filename": "B22403_Part_2.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_Part_2.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Part_2.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Part_2.xhtml",
+      "file": "009.md",
+      "complete": true,
+      "sha256": "35cf1f34e5011fcee55dfdc146f01bb2efd44d2863ca05b98847ade23f7be05d",
+      "images": []
+    },
+    {
+      "order": 10,
+      "title": "Chapter 4: Writing and Building a ROS 2 Node",
+      "filename": "B22403_04.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_04.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_04.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_04.xhtml",
+      "file": "010.md",
+      "complete": true,
+      "sha256": "3d5a4192e627d8cc287450991ee652b9cac77e16da2be10caac5a10d57015b62",
+      "images": [
+        {
+          "file": "images/3a9d2807c8d7c1d8f257.jpg",
+          "sha256": "3a9d2807c8d7c1d8f2570aecfe435617ddb6f12a75cba43b527f976b54d71c63"
+        },
+        {
+          "file": "images/93ddc13024d2cbe75b60.jpg",
+          "sha256": "93ddc13024d2cbe75b6037f0bcfee60e6611a90a3da1d8752070c13f3cac0a67"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "title": "Chapter 5: Topics – Sending and Receiving Messages between Nodes",
+      "filename": "B22403_05.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_05.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_05.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_05.xhtml",
+      "file": "011.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/21110e0831eb0846aaf6.jpg",
+          "sha256": "21110e0831eb0846aaf6dc23695ebef3d6c540dd5e6a397418bbc567ceb38001"
+        },
+        {
+          "file": "images/6bd8d23661d522b39c69.jpg",
+          "sha256": "6bd8d23661d522b39c69c53b71bb2429f427951a9c5315922fcd46f47c95fd24"
+        },
+        {
+          "file": "images/a8f8fa67d505f950c85c.jpg",
+          "sha256": "a8f8fa67d505f950c85c099674961db80ecbdb341dfc6fbae11a95425ab72947"
+        },
+        {
+          "file": "images/b01c257479e3a0b3abc7.jpg",
+          "sha256": "b01c257479e3a0b3abc7c7447a1cf3f3cf876796fae575b60fcbb1aff9101538"
+        },
+        {
+          "file": "images/64c5f10c0a9f86a09306.jpg",
+          "sha256": "64c5f10c0a9f86a09306004e269daaa489092238b0f59411b170b48f03a0cfea"
+        },
+        {
+          "file": "images/f6bf4a499e45469ebdef.jpg",
+          "sha256": "f6bf4a499e45469ebdef32e47646ac4880b9fd6533cc864efccf5c9f04a8a01c"
+        },
+        {
+          "file": "images/94bc46f6d12284b6c71d.png",
+          "sha256": "94bc46f6d12284b6c71d9555e01b47d7536061901203d3562c789bd4d8cb5731"
+        },
+        {
+          "file": "images/a305a4c1638deef8796e.png",
+          "sha256": "a305a4c1638deef8796ea854321e97faecdcdeb050bc43c63c4653bb7b8aa7d7"
+        },
+        {
+          "file": "images/a02e345f0661a65c6772.png",
+          "sha256": "a02e345f0661a65c6772f9513011d2010b4f5549ea0f4c6a09bc2b5001752e62"
+        },
+        {
+          "file": "images/d1a2c91bd3c4779f5089.png",
+          "sha256": "d1a2c91bd3c4779f508910e54cd3d4cc9cfeef11d5b5ba92dd37680b1277f230"
+        },
+        {
+          "file": "images/ebc2db29955d0d77d6f4.jpg",
+          "sha256": "ebc2db29955d0d77d6f485cdcf6363cc815d0d860a994304d1ed30c71c9e671e"
+        },
+        {
+          "file": "images/a4c72a4935289f2d247f.jpg",
+          "sha256": "a4c72a4935289f2d247fe7de83d96c548f0f357be68fcf627a2f9569d7c4da09"
+        },
+        {
+          "file": "images/b08ecdf3401e92de3468.jpg",
+          "sha256": "b08ecdf3401e92de346849d19b36b5fbaf491047f029ff1f19e0b50db683e80b"
+        },
+        {
+          "file": "images/67cfdd439e31d908e05d.jpg",
+          "sha256": "67cfdd439e31d908e05dc3153c406ca79f9f3784b3d6c70fa4421aae1df19f93"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "5d8c05b0c0a356dc21e6306f088dd0f00994bc79c5213798ff7e1d7acb1fb2eb"
+    },
+    {
+      "order": 12,
+      "title": "Chapter 6: Services – Client/Server Interaction between Nodes",
+      "filename": "B22403_06.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_06.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_06.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_06.xhtml",
+      "file": "012.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/7ab83ab6bf0cbeac13aa.jpg",
+          "sha256": "7ab83ab6bf0cbeac13aa61b67d84f4c55275dbc20fff42e669aa30daf3ef7d55"
+        },
+        {
+          "file": "images/c689ec376a1c2a503b33.jpg",
+          "sha256": "c689ec376a1c2a503b33a0071e18f5a9dff201cdbdabf8dd82ba46e52a028c3c"
+        },
+        {
+          "file": "images/a99a0cf22d74d537e1f6.jpg",
+          "sha256": "a99a0cf22d74d537e1f6e340ad5e79a528b47b96a8296eca9f0ecf19d2930832"
+        },
+        {
+          "file": "images/21c42df306bdff745ac5.jpg",
+          "sha256": "21c42df306bdff745ac51e964f203fa13821fabb711430af7043524dafc2f5ab"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "3e03e74d7b049cce9189f47e7787846fa2b296e7ec31c7b382b659615e67e16d"
+    },
+    {
+      "order": 13,
+      "title": "Chapter 7: Actions – When Services Are Not Enough",
+      "filename": "B22403_07.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_07.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_07.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_07.xhtml",
+      "file": "013.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/7ab96f40fa2ab5b07eb8.jpg",
+          "sha256": "7ab96f40fa2ab5b07eb8e41f60effd8766472534984a4dd4aa46d10ccbca4b14"
+        },
+        {
+          "file": "images/bf9b761972da6cfa8e44.jpg",
+          "sha256": "bf9b761972da6cfa8e441b0afe4f3f8b555bc8d600329f214b167a21da14289f"
+        },
+        {
+          "file": "images/3298938261a52c3d2816.jpg",
+          "sha256": "3298938261a52c3d2816f26018db5a011a23f3483335d6c50994f28a100e5baa"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "01c24ca6c0d8feed89e8758c30219e52f839cfef6e24bd92d3a2f7859095d602"
+    },
+    {
+      "order": 14,
+      "title": "Chapter 8: Parameters – Making Nodes More Dynamic",
+      "filename": "B22403_08.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_08.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_08.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_08.xhtml",
+      "file": "014.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/5926a2f5dfa5a0c3eceb.jpg",
+          "sha256": "5926a2f5dfa5a0c3eceb14c21c995f0d56441be8e80b14dff9dc20daafd493c6"
+        },
+        {
+          "file": "images/84afa5c6d2cd1f307cda.jpg",
+          "sha256": "84afa5c6d2cd1f307cdaee350e5a2b018230cabafbba21123c18ab30924c57cc"
+        },
+        {
+          "file": "images/94bc46f6d12284b6c71d.png",
+          "sha256": "94bc46f6d12284b6c71d9555e01b47d7536061901203d3562c789bd4d8cb5731"
+        },
+        {
+          "file": "images/a305a4c1638deef8796e.png",
+          "sha256": "a305a4c1638deef8796ea854321e97faecdcdeb050bc43c63c4653bb7b8aa7d7"
+        },
+        {
+          "file": "images/a02e345f0661a65c6772.png",
+          "sha256": "a02e345f0661a65c6772f9513011d2010b4f5549ea0f4c6a09bc2b5001752e62"
+        },
+        {
+          "file": "images/d1a2c91bd3c4779f5089.png",
+          "sha256": "d1a2c91bd3c4779f508910e54cd3d4cc9cfeef11d5b5ba92dd37680b1277f230"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "2f65840b06317bfb08390867074bfb632b96b0fc6f54ee1ca866f96cd00619a7"
+    },
+    {
+      "order": 15,
+      "title": "Chapter 9: Launch Files – Starting All Your Nodes at Once",
+      "filename": "B22403_09.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_09.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_09.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_09.xhtml",
+      "file": "015.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/03cea94d9e3f18789544.jpg",
+          "sha256": "03cea94d9e3f18789544b953fe7fb30ca635f1d7dfa1cd5baab5feef7295081a"
+        },
+        {
+          "file": "images/13a88d073912cd45058e.jpg",
+          "sha256": "13a88d073912cd45058e5be78431400e479f3e6e6be97a00c02c5646698fa025"
+        },
+        {
+          "file": "images/b8cfba5b5844f5ef7dc3.jpg",
+          "sha256": "b8cfba5b5844f5ef7dc373bade7a81bc3b3381e69679c46c07320018b2381280"
+        },
+        {
+          "file": "images/46f3f88ea5d79b3b48b1.jpg",
+          "sha256": "46f3f88ea5d79b3b48b16fdb330673aa5f8eb513a7d8bccf145b14fac9daf9df"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "c9debeb5a02c6ee3caa51cee1b9d4fdabe0e8379abd777a11f09f5dd8de84466"
+    },
+    {
+      "order": 16,
+      "title": "Part 3: Creating and Simulating a Custom Robot with ROS 2",
+      "filename": "B22403_Part_3.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_Part_3.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Part_3.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Part_3.xhtml",
+      "file": "016.md",
+      "complete": true,
+      "images": [],
+      "sha256": "fdd4299bca90e6f284f4677f685861395c0a3134b127c0ebd9bfe6a2c80b863f"
+    },
+    {
+      "order": 17,
+      "title": "Chapter 10: Discovering TFs with RViz",
+      "filename": "B22403_10.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_10.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_10.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_10.xhtml",
+      "file": "017.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/1407df388443b1a6c4c4.jpg",
+          "sha256": "1407df388443b1a6c4c47b6289ebf5626a5f9f22639909f585b18a31d56deb39"
+        },
+        {
+          "file": "images/9cdc0d8e900096efcc6d.png",
+          "sha256": "9cdc0d8e900096efcc6d280b1c9327a2c4165860f4ba9e9d417f9c531cc76a0d"
+        },
+        {
+          "file": "images/0e56864f57205140da39.png",
+          "sha256": "0e56864f57205140da39624d0e43185054517054d97a2cf771c63f9bf4911fd9"
+        },
+        {
+          "file": "images/d1a2c91bd3c4779f5089.png",
+          "sha256": "d1a2c91bd3c4779f508910e54cd3d4cc9cfeef11d5b5ba92dd37680b1277f230"
+        },
+        {
+          "file": "images/701d0f5ea7a0bd95969d.jpg",
+          "sha256": "701d0f5ea7a0bd95969d3be2c886591d38cbdf76dfd0dd16ecf7df81b2972e34"
+        },
+        {
+          "file": "images/2499900fbfb8f127b94d.jpg",
+          "sha256": "2499900fbfb8f127b94d64560cae02dc6bf91a1dc3531a744bb00920f11b64ca"
+        },
+        {
+          "file": "images/1e57a58009bdadd1b8a2.jpg",
+          "sha256": "1e57a58009bdadd1b8a2a20771092f39ff916884b7e48da6ea3d22ff21a442d6"
+        },
+        {
+          "file": "images/8cfb3188667c2ccc3cc5.jpg",
+          "sha256": "8cfb3188667c2ccc3cc55f1713f7985b6e2f6cd8a7028fddb9400d51a5a5afe9"
+        },
+        {
+          "file": "images/9d12acf6213441570dc0.jpg",
+          "sha256": "9d12acf6213441570dc08d3648378dc3a5cf62666f527a8bf88c970fe63827f4"
+        },
+        {
+          "file": "images/ba9405d5619f53648c7a.jpg",
+          "sha256": "ba9405d5619f53648c7a1d51eab03fb1df12b144f8ab6b3b6411b982238ecf25"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "d677e7d203a322344bd907711503774ffb324e0d9774e1cab73b9bdba833ef84"
+    },
+    {
+      "order": 18,
+      "title": "Chapter 11: Creating a URDF for a Robot",
+      "filename": "B22403_11.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_11.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_11.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_11.xhtml",
+      "file": "018.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/c924f5c602a5e0d44f3a.jpg",
+          "sha256": "c924f5c602a5e0d44f3a20d49161377ead6d381e60766a2d926d4dedfcf0c848"
+        },
+        {
+          "file": "images/94bc46f6d12284b6c71d.png",
+          "sha256": "94bc46f6d12284b6c71d9555e01b47d7536061901203d3562c789bd4d8cb5731"
+        },
+        {
+          "file": "images/a305a4c1638deef8796e.png",
+          "sha256": "a305a4c1638deef8796ea854321e97faecdcdeb050bc43c63c4653bb7b8aa7d7"
+        },
+        {
+          "file": "images/a02e345f0661a65c6772.png",
+          "sha256": "a02e345f0661a65c6772f9513011d2010b4f5549ea0f4c6a09bc2b5001752e62"
+        },
+        {
+          "file": "images/d1a2c91bd3c4779f5089.png",
+          "sha256": "d1a2c91bd3c4779f508910e54cd3d4cc9cfeef11d5b5ba92dd37680b1277f230"
+        },
+        {
+          "file": "images/b3eae322c55ae94d0075.jpg",
+          "sha256": "b3eae322c55ae94d0075ca293e59edad1203ba8df05c0fe3b2fa819e8fa300e1"
+        },
+        {
+          "file": "images/91c12eaf8db42dd6017c.jpg",
+          "sha256": "91c12eaf8db42dd6017ce43ee7a919640df8fb94d010745bce18098ef657407a"
+        },
+        {
+          "file": "images/1dc8e625a243df4421b0.jpg",
+          "sha256": "1dc8e625a243df4421b0ab0daf23d20d2a1432c0f0135578cbaa8bf0aa320b13"
+        },
+        {
+          "file": "images/33aacb73124a133d2fbf.jpg",
+          "sha256": "33aacb73124a133d2fbfd777bc1ba5f1f0436f8434e6917f600cb05fc013e810"
+        },
+        {
+          "file": "images/0299a8a8fbd7216caf1f.jpg",
+          "sha256": "0299a8a8fbd7216caf1f52ecb3fd4793ab2eec2b1bda124f551ab3c31328fec7"
+        },
+        {
+          "file": "images/ccd41dd87a48a817fd0b.jpg",
+          "sha256": "ccd41dd87a48a817fd0bab106b1ffaa661bc167805ab36dfde14f040fa7537db"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "5db2039d8b62764a001441975d7dfb701be9cd87fa52607a53b2450f23d73ad8"
+    },
+    {
+      "order": 19,
+      "title": "Chapter 12: Publishing TFs and Packaging the URDF",
+      "filename": "B22403_12.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_12.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_12.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_12.xhtml",
+      "file": "019.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/3bfe4f0ab26c1f94ef8b.jpg",
+          "sha256": "3bfe4f0ab26c1f94ef8bef3ff5f56e9ae766af9cf0992053a3b936eacb618ed4"
+        },
+        {
+          "file": "images/6762032b93d64bfd1c11.jpg",
+          "sha256": "6762032b93d64bfd1c113d01d119b796d9911c3e244a4a9bcdfccc939a7d1509"
+        },
+        {
+          "file": "images/37d96b5d60d00e4498db.jpg",
+          "sha256": "37d96b5d60d00e4498db70707e878c92f97a8eb637b85c6d7415bc010d780593"
+        },
+        {
+          "file": "images/2824f4486d07c046cc31.jpg",
+          "sha256": "2824f4486d07c046cc31a33720468477328c6501f38408cae8f11b7e309a4dd8"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "3dd2e71dcc83027af89c670f04c6ffc990fc69bfb31eb83774053ebefa237401"
+    },
+    {
+      "order": 20,
+      "title": "Chapter 13: Simulating a Robot in Gazebo",
+      "filename": "B22403_13.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_13.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_13.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_13.xhtml",
+      "file": "020.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/12027c10ee9b573d6047.jpg",
+          "sha256": "12027c10ee9b573d604741001b8b99e9ad0d0c6c528274313caaecced301a18f"
+        },
+        {
+          "file": "images/18d5cba5825218e0851d.jpg",
+          "sha256": "18d5cba5825218e0851d05756940e5898cd01faeb5015319e747ded4668138b7"
+        },
+        {
+          "file": "images/edcd381d9896924dc17b.jpg",
+          "sha256": "edcd381d9896924dc17b107ce3261f170d7877188e762ba482e1b36d980b22bb"
+        },
+        {
+          "file": "images/9b9eac68503f46dc96d0.jpg",
+          "sha256": "9b9eac68503f46dc96d0424006a6442f2da51e241f75334eff8db9d624c5c42a"
+        },
+        {
+          "file": "images/cd376ef0dac2c5525275.jpg",
+          "sha256": "cd376ef0dac2c55252755feb699726218f61001d1b49be30322ab463e2f71dc1"
+        },
+        {
+          "file": "images/2e0f1fb9a792e342fb7a.jpg",
+          "sha256": "2e0f1fb9a792e342fb7a655453da27bce805cc87fd81fcf34b2bb7107a280953"
+        },
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "410b9de293797727c62d5206efce77e8e4229217ce2e7272905d562722d0ef13"
+    },
+    {
+      "order": 21,
+      "title": "Chapter 14: Going Further – What To Do Next",
+      "filename": "B22403_14.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_14.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_14.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_14.xhtml",
+      "file": "021.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/6eee8419636ae36f82d8.png",
+          "sha256": "6eee8419636ae36f82d8a712e3d46acee5cb6e8be11ce7453ec36777e10e5ad0"
+        },
+        {
+          "file": "images/f806f83df8c9221f8d07.jpg",
+          "sha256": "f806f83df8c9221f8d07c2a8712af926479f130fa54e3b1d5bf3fe3f4af08576"
+        }
+      ],
+      "sha256": "1e94277eea9da25e52d365522a55382a5fdd6793246f27896e8e2a704902dabc"
+    },
+    {
+      "order": 22,
+      "title": "Index",
+      "filename": "B22403_Index.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_Index.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Index.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_Index.xhtml",
+      "file": "022.md",
+      "complete": true,
+      "images": [],
+      "sha256": "ff516f88cdc567f3449ccf9a9f98ba5cb8f98368b0898bd78e111c1be93606e7"
+    },
+    {
+      "order": 23,
+      "title": "Why subscribe?",
+      "filename": "B22403_BM_eBook.xhtml",
+      "source_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/library/view/ros-2-from/9781835881408/B22403_BM_eBook.xhtml",
+      "content_url": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_BM_eBook.xhtml",
+      "asset_base": "https://learning-oreilly-com.udstlibrary.idm.oclc.org/api/v2/epubs/urn:orm:book:9781835881408/files/B22403_BM_eBook.xhtml",
+      "file": "023.md",
+      "complete": true,
+      "images": [
+        {
+          "file": "images/77f6c9c4d545261a8e8f.png",
+          "sha256": "77f6c9c4d545261a8e8fc53a999e2c4a5d586737c9e2fe408eb0a43d547c6d79"
+        },
+        {
+          "file": "images/b8ed36d863341351a2fd.jpg",
+          "sha256": "b8ed36d863341351a2fdded4b23148c529edf7de229979de25766a3437d8cfa4"
+        },
+        {
+          "file": "images/0022afd8c7d485df7869.jpg",
+          "sha256": "0022afd8c7d485df78692888d53f1f4395b75cb251bc68aec806731f22ff8272"
+        }
+      ],
+      "sha256": "4ee05f37ab5a3096d0b26394d7702b9c9a275507b1cfbfa1192dd9a783cdcb1f"
+    }
+  ]
+}
